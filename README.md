@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Karyl256
-- 👀 I’m interested in slight game dev
-- 🌱 I’m currently learning C++
+- 👀 I’m slightly interested in game dev
+- 🌱 I’m currently learning Rust. I have been using C++ for a couple... years?
 
 <!---
 Karyl256/Karyl256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
